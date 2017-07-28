@@ -3,6 +3,10 @@ class: center middle
 
 QA should be about preventing defects(!bugs), Not finding them.
 
+<img src="https://user-images.githubusercontent.com/784788/28721661-1ca15994-737f-11e7-88b2-ca2d47c1ac4b.png" alt="bug" style="width: 400px;"/>
+
+
+
 ---
 ## Ideal Workflow
 - For every new epic, SET determines if we have sufficient tooling to test the new feature.
