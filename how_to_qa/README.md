@@ -3,7 +3,7 @@ class: center middle
 
 QA should be about preventing defects(!bugs), Not finding them.
 
-<img src="https://user-images.githubusercontent.com/784788/28721661-1ca15994-737f-11e7-88b2-ca2d47c1ac4b.png" alt="bug" style="width: 400px;"/>
+<img src="https://user-images.githubusercontent.com/784788/28808482-5543857e-764a-11e7-8bc8-bbce627be227.png" alt="bug" style="width: 400px;"/>
 
 
 
@@ -17,6 +17,8 @@ QA should be about preventing defects(!bugs), Not finding them.
 
 - SET reviews the test coverage, and sign off the release.
 
+<img src="https://user-images.githubusercontent.com/784788/28809867-13f559ee-7654-11e7-9b60-99d9bb992514.png" alt="bug" style="width: 200px; text-align: center;"/>
+
 ---
 ## Role of SET
 - SETs should be quality advocates, influencing both development and operational processes.
@@ -29,13 +31,14 @@ QA should be about preventing defects(!bugs), Not finding them.
 
     - Tools for contracts testing, resiliency testing, load testing and few more.
 
-    - Tools to monitor service contracts SLAs.
-
+        <img src="https://user-images.githubusercontent.com/784788/28810111-f8ebc8d4-7655-11e7-93dd-0e52a94e0956.png" alt="bug" style="width: 200px; height:200px;"/>
 ---
 ## Benefits
 - Strive quality ownership culture within team.
 
 - Faster feedback cycle via automation.
+
+    <img src="https://user-images.githubusercontent.com/784788/28810701-1ff43e5e-7659-11e7-8b0f-f033ae2ec566.png" alt="bug" style="width: 200px; height:200px;"/>
 
 - Feature knowledge is retained for more than 1 dev (test dev + feature dev).
 
