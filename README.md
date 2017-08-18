@@ -25,3 +25,16 @@ $ markdown-to-slides my-file.md -o slideshow.html
 --level              Heading level to use as new slides (for example 3 is ###)
 --include-remark -i  Include Remark sources (around 850kB) into the generated document
 ```
+
+## Save as PDF
+To convert the html presentation into pdf, you can use decktape
+*usage*:
+- cd into decktape-1.0.0 directory
+```
+cd decktape-1.0.0
+```
+- Run these command
+```
+./phantomjs decktape.js remark presentation.html presentation.pdf
+```
+- Add absolute path for html and target pdf file.
