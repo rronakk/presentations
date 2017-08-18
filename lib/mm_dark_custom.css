@@ -20,7 +20,5 @@ h1, h2, h3{
     font-weight: normal;
     color: blue;
 }
-img{
-    text-align: center;
-}
+
 .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
